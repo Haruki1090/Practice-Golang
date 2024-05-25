@@ -2,3 +2,6 @@
 
 ## lesson-1
 - Hello World
+
+## lesson-2
+- 変数宣言
